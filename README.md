@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Moqixis)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+
+
+| <a href="https://github.com/Moqixis/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Moqixis&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CheyanneLee's github stats" /></a> | <a href="https://github.com/Moqixis/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moqixis&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+

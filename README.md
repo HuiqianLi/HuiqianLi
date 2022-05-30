@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Moqixis.Moqixis&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Cheyanne Lee.Cheyanne Lee&left_color=green&right_color=red)
 
-![](https://github-readme-stats.vercel.app/api?username=Moqixis)
+![](https://github-readme-stats.vercel.app/api?username=Cheyanne Lee)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 

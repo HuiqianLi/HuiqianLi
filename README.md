@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![emo人](1653926757527.jpeg)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CheyanneLee.CheyanneLee&left_color=green&right_color=red)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)

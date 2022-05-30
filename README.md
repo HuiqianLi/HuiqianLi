@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**💙拒绝emo💙**
+**💙🧡💛💚💜🤎🖤🤍拒绝emo🤍🖤🤎💜💚💛🧡💙**
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CheyanneLee.CheyanneLee&left_color=green&right_color=red)
 

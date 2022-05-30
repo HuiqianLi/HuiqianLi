@@ -5,7 +5,12 @@
 
 Here are some ideas to get you started:
 
+${Cheyanne Lee}.${Moqixis}https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Moqixis.visitor&left_color=green&right_color=red)
+
+![](https://github-readme-stats.vercel.app/api?username=Moqixis)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

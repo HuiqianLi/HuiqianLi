@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 | <a href="https://github.com/HuiqianLi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HuiqianLi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CheyanneLee's github stats" /></a> | <a href="https://github.com/HuiqianLi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuiqianLi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HuiqianLi&layout=compact&range=all_time" alt="huiqian-wakatime" />
+</p>
